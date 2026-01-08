@@ -69,6 +69,9 @@
       "_lock": {
         "iconPath": "./icons/lock.png"
       },
+      "_readme": {
+        "iconPath": "images/readme.png"
+      },
     },
     "folder": "_folder",
     "file": "_local_file",
@@ -92,6 +95,9 @@
       "jpg": "_png",
       "jpeg": "_png",
       "lock": "_lock",
+    },
+    "fileNames": {
+      "README": "_readme"
     },
     "folderNames": {
       "sync": "_workspace",
