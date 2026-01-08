@@ -1,5 +1,5 @@
 {
-    "name": "roblox-studio-icons",
+    "name": "icons-roblox-studio",
     "displayName": "Roblox Studio Icons",
     "description": "File icons matching Roblox Studio",
     "version": "1.0.0",
@@ -17,7 +17,7 @@
     "contributes": {
       "iconThemes": [
         {
-          "id": "roblox-studio-icons",
+          "id": "icons-roblox-studio",
           "label": "Roblox Studio Icons",
           "path": "./fileicons/roblox-icon-theme.json"
         }
