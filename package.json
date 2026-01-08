@@ -1,6 +1,6 @@
 {
-    "name": "icons-roblox-studio",
-    "displayName": "Roblox Studio Icons",
+    "name": "roblox-studio-icon-theme",
+    "displayName": "Icons Roblox Studio",
     "description": "File icons matching Roblox Studio",
     "version": "1.0.0",
     "publisher": "Enderex",
@@ -8,7 +8,7 @@
       "vscode": "^1.67.0"
     },
     "categories": ["Themes"],
-    "keywords": ["roblox", "icons", "theme", "lua","luau"],
+    "keywords": ["roblox", "icon","icons", "theme", "icon theme", "lua","luau"],
     "repository": {
     "type": "git",
     "url": "https://github.com/EnderexDev/Roblox-Studio-Icons.git"
@@ -17,8 +17,8 @@
     "contributes": {
       "iconThemes": [
         {
-          "id": "icons-roblox-studio",
-          "label": "Roblox Studio Icons",
+          "id": "roblox-studio-icon-theme",
+          "label": "Roblox Studio Icon Theme",
           "path": "./fileicons/roblox-icon-theme.json"
         }
       ]
