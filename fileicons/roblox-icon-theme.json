@@ -1,0 +1,114 @@
+{
+    "iconDefinitions": {
+      "_folder": {
+        "iconPath": "./icons/folder.png"
+      },
+      "_server_script": {
+        "iconPath": "./icons/serverscript.png"
+      },
+      "_module_script": {
+        "iconPath": "./icons/modulescript.png"
+      },
+      "_local_script": {
+        "iconPath": "./icons/localscript.png"
+      },
+      "_disabled_script": {
+        "iconPath": "./icons/disabledscript.png"
+      },
+      "_replicated_storage": {
+        "iconPath": "./icons/replicatedstorage.png"
+      },
+      "_replicated_first": {
+        "iconPath": "./icons/replicatedfirst.png"
+      },
+      "_workspace": {
+        "iconPath": "./icons/workspace.png"
+      },
+      "_starter_player": {
+        "iconPath": "./icons/starterplayer.png"
+      },
+      "_starter_player_scripts": {
+        "iconPath": "./icons/starterplayerscripts.png"
+      },
+      "_starter_pack": {
+        "iconPath": "./icons/starterpack.png"
+      },
+      "_starter_gui": {
+        "iconPath": "./icons/startergui.png"
+      },
+      "_server_script_service": {
+        "iconPath": "./icons/serverscriptservice.png"
+      },
+      "_local_file": {
+        "iconPath": "./icons/localfile.png"
+      },
+      "_git": {
+        "iconPath": "./icons/git.png"
+      },
+      "_json": {
+        "iconPath": "./icons/json.png"
+      },
+      "_settings": {
+        "iconPath": "./icons/settings.png"
+      },
+      "_server_storage": {
+        "iconPath": "./icons/serverstorage.png"
+      },
+      "_png": {
+        "iconPath": "./icons/png.png"
+      },
+      "_lighting": {
+        "iconPath": "./icons/lighting.png"
+      },
+      "_players": {
+        "iconPath": "./icons/players.png"
+      },
+      "_sound_service": {
+        "iconPath": "./icons/soundservice.png"
+      },
+      "_lock": {
+        "iconPath": "./icons/lock.png"
+      },
+    },
+    "folder": "_folder",
+    "file": "_local_file",
+    "rootFolderExpanded": "_folder",
+    "rootFolder": "_folder",
+    "fileExtensions": {
+      "client.lua": "_local_script",
+      "client.luau": "_local_script",
+      "server.lua": "_server_script",
+      "server.luau": "_server_script",
+      "lua": "_module_script",
+      "luau": "_module_script",
+      "json": "_json",
+      "toml": "_settings",
+      "lua.disabled": "_disabled_script",
+      "luau.disabled": "_disabled_script",
+      "git": "_git",
+      "gitignore": "_git",
+      "yml": "_settings",
+      "png": "_png",
+      "jpg": "_png",
+      "jpeg": "_png",
+      "lock": "_lock",
+    },
+    "folderNames": {
+      "sync": "_workspace",
+      "src": "_workspace",
+      "Workspace": "_workspace",
+      "ReplicatedFirst": "_replicated_first",
+      "ReplicatedStorage": "_replicated_storage",
+      "StarterPlayer": "_starter_player",
+      "StarterPlayerScripts": "_starter_player_scripts",
+      "StarterPack": "_starter_pack",
+      "StarterGui": "_starter_gui",
+      "StarterCharacterScripts": "_starter_player_scripts",
+      "ServerScriptService": "_server_script_service",
+      "ServerStorage": "_server_storage",
+      "Lighting": "_lighting",
+      "Players": "_players",
+      "SoundService": "_sound_service",
+    }
+  }
+  
