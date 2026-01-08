@@ -2,10 +2,10 @@
     "name": "roblox-studio-icon-theme",
     "displayName": "Icons Roblox Studio",
     "description": "File icons matching Roblox Studio",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "Enderex",
     "engines": {
-      "vscode": "^1.67.0"
+      "vscode": "^1.50.0"
     },
     "categories": ["Themes"],
     "keywords": ["roblox", "icon","icons", "theme", "icon theme", "lua","luau"],
