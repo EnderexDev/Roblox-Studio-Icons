@@ -95,6 +95,7 @@
       "jpg": "_png",
       "jpeg": "_png",
       "lock": "_lock",
+      "md": "_readme",
     },
     "fileNames": {
       "README": "_readme"
