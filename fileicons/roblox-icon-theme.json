@@ -72,6 +72,12 @@
       "_readme": {
         "iconPath": "./icons//readme.png"
       },
+      "_rojo": {
+        "iconPath": "./icons/rojo.png"
+      },
+      "_azul": {
+        "iconPath": "./icons/azul.png"
+      },
     },
     "folder": "_folder",
     "file": "_local_file",
@@ -96,13 +102,14 @@
       "jpeg": "_png",
       "lock": "_lock",
       "md": "_readme",
+      "txt": "_readme",
     },
     "fileNames": {
       "README": "_readme"
     },
     "folderNames": {
-      "sync": "_workspace",
-      "src": "_workspace",
+      "sync": "_azul",
+      "src": "_rojo",
       "Workspace": "_workspace",
       "ReplicatedFirst": "_replicated_first",
       "ReplicatedStorage": "_replicated_storage",
