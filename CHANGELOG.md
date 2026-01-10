@@ -2,6 +2,11 @@
 
 All notable changes to the "Icons Roblox Studio" extension will be documented in this file.
 
+## [1.2.1] - 10-01-2026
+
+### Changed
+- Updated README.md
+
 ## [1.2.0] - 10-01-2026
 
 ### Added
@@ -14,7 +19,6 @@ All notable changes to the "Icons Roblox Studio" extension will be documented in
 - Old Icon Theme "Roblox Studio Icon Theme" became "Roblox Studio (Rojo & Azul)"
 - Updated Description
 - Update mininum vs code version needed from 1.50 to 1.60
-- Updated README.md
 
 ### Removed
 - Folder "Players" doesn't have an icon anymore. (No one will add a script into Players)
