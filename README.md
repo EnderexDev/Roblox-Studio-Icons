@@ -7,15 +7,17 @@ So, I decided to create it.
 
 
 ## ICONS
-- Roblox Services (Server Script Server, Replicated Storage...)
+- Features 2 different icon themes
+- Roblox Services (ServerScriptService, ReplicatedStorage...)
 - Some file extensions (toml, json, git, png...)
 
 
 ## COMPATIBILITY
 - Visual Studio Code
 - Cursor
-- Rojo (image for src)
-- Azul (image for sync)
+- Rojo
+- Azul
+- Argon
 
 
 ## LICENSE
