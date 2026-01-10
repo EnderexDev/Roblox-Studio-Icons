@@ -2,7 +2,7 @@
     "name": "roblox-studio-icon-theme",
     "displayName": "Icons Roblox Studio",
     "description": "File icons matching Roblox Studio, with 2 different icon themes: Rojo & Azul and Argon. Everyone deservers to have the best experience possible.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "Enderex",
     "engines": {
       "vscode": "^1.60.0"
