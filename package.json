@@ -1,14 +1,14 @@
 {
     "name": "roblox-studio-icon-theme",
     "displayName": "Icons Roblox Studio",
-    "description": "File icons matching Roblox Studio",
-    "version": "1.1.0",
+    "description": "File icons matching Roblox Studio, with 2 different icon themes: Rojo & Azul and Argon. Everyone deservers to have the best experience possible.",
+    "version": "1.2.0",
     "publisher": "Enderex",
     "engines": {
-      "vscode": "^1.50.0"
+      "vscode": "^1.60.0"
     },
     "categories": ["Themes"],
-    "keywords": ["roblox", "icon","icons", "theme", "icon theme", "lua","luau"],
+    "keywords": ["roblox", "icon","icons", "theme", "icon theme", "lua","luau", "rojo", "azul", "argon", "studio", "roblox studio"],
     "repository": {
     "type": "git",
     "url": "https://github.com/EnderexDev/Roblox-Studio-Icons.git"
@@ -17,9 +17,14 @@
     "contributes": {
       "iconThemes": [
         {
-          "id": "roblox-studio-icon-theme",
-          "label": "Roblox Studio Icon Theme",
-          "path": "./fileicons/roblox-icon-theme.json"
+          "id": "roblox-studio-rojo-azul",
+          "label": "Roblox Studio (Rojo & Azul)",
+          "path": "./fileicons/rojo-azul.json"
+        },
+        {
+          "id": "roblox-studio-argon",
+          "label": "Roblox Studio (Argon)",
+          "path": "./fileicons/argon.json"
         }
       ]
     }
