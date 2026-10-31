@@ -1,41 +1,38 @@
-# Change Log
+# Changelog
 
-All notable changes to the "Icons Roblox Studio" extension will be documented in this file.
+All notable changes to the "Icons Roblox Studio" extension are listed here.
+The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
+[Semantic Versioning](https://semver.org/). Dates are YYYY-MM-DD.
 
-## [1.2.1] - 10-01-2026
+## [1.2.1] - 2026-01-10
 
 ### Changed
-- Updated README.md
+- **docs:** README describes the two icon themes and uses the full Roblox service names.
 
-## [1.2.0] - 10-01-2026
+## [1.2.0] - 2026-01-10
 
 ### Added
-- Compatibility with Argon
-- A new Icon Theme exclusively for Argon has been created (you also deserve some icons <3)
-    - It adds an icon for "Shared", "Client" and "Server" (the default folders created by Argon)
-- You can now choose from 2 different icon themes "Roblox Studio (Rojo & Azul)" and "Roblox Studio (Argon)"
+- **themes:** new "Roblox Studio (Argon)" icon theme (`fileicons/argon.json`), for projects synced with Argon.
+- **argon:** icons for Argon's default folders `Shared`, `Client` and `Server` (you also deserve some icons <3).
+- **themes:** two themes to pick from in VS Code: "Roblox Studio (Rojo & Azul)" and "Roblox Studio (Argon)".
 
 ### Changed
-- Old Icon Theme "Roblox Studio Icon Theme" became "Roblox Studio (Rojo & Azul)"
-- Updated Description
-- Update mininum vs code version needed from 1.50 to 1.60
+- **themes:** the old "Roblox Studio Icon Theme" (`roblox-icon-theme.json`) is now "Roblox Studio (Rojo & Azul)" (`fileicons/rojo-azul.json`). Its mappings are the same apart from the `Players` folder below.
+- **package:** new description and keywords in `package.json`.
+- **package:** minimum VS Code version raised from 1.50 to 1.60 (`engines.vscode: ^1.60.0`).
 
 ### Removed
-- Folder "Players" doesn't have an icon anymore. (No one will add a script into Players)
+- **folders:** the `Players` folder no longer gets an icon (no one puts a script in Players).
 
-## [1.1.0] - 08-01-2026
+## [1.1.0] - 2026-01-08
 
 ### Changed
-- Folders "src" and "sync" from Rojo and Azul respectively, now have their own icons instead of using workspace one.
+- **folders:** `src` (Rojo) and `sync` (Azul) now have their own Rojo and Azul icons instead of reusing the Workspace one.
 
-## [1.0.0] - 08-01-2026
+## [1.0.0] - 2026-01-08
 
 ### Added
-- Initial release
-- Roblox Studio icons for .lua and .luau files (both works)
-- Script (.server.luau), LocalScript (.client.luau), and ModuleScript(.luau) icons
-- Replicated Storage, Replicated First, Server Script Service, Server Storage
-- Players, Starter GUI, Starter Pack, Starter Player Script, Starter Character Scripts
-- Lighting, Sound Service, Workspace
-- Folder icons matching Studio theme
-- Some File Extensions (json, toml, md, txt, png, lock, jpg, jpeg, git, yml)
+- Initial release.
+- **scripts:** Roblox Studio icons for `.lua` and `.luau` files: Script (`.server.luau`), LocalScript (`.client.luau`) and ModuleScript (`.luau`).
+- **folders:** icons for ReplicatedStorage, ReplicatedFirst, ServerScriptService, ServerStorage, Players, StarterGui, StarterPack, StarterPlayerScripts, StarterCharacterScripts, Lighting, SoundService and Workspace, matching the Studio theme.
+- **files:** icons for json, toml, md, txt, png, jpg, jpeg, lock, git and yml files, plus README.
