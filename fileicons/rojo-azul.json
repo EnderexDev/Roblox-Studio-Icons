@@ -123,7 +123,9 @@
     "glb": "_mesh",
     "mesh": "_mesh",
     "rbxm": "_model",
-    "rbxmx": "_model"
+    "rbxmx": "_model",
+    "rbxl": "_workspace",
+    "rbxlx": "_workspace"
   },
   "fileNames": {
     "README": "_readme"
