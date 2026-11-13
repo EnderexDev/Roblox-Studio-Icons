@@ -83,6 +83,9 @@
     },
     "_mesh": {
       "iconPath": "./icons/meshpart.png"
+    },
+    "_model": {
+      "iconPath": "./icons/model.png"
     }
   },
   "folder": "_folder",
@@ -118,7 +121,9 @@
     "obj": "_mesh",
     "gltf": "_mesh",
     "glb": "_mesh",
-    "mesh": "_mesh"
+    "mesh": "_mesh",
+    "rbxm": "_model",
+    "rbxmx": "_model"
   },
   "fileNames": {
     "README": "_readme"
