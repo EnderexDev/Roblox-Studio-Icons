@@ -86,6 +86,9 @@
     },
     "_model": {
       "iconPath": "./icons/model.png"
+    },
+    "_video": {
+      "iconPath": "./icons/videoframe.png"
     }
   },
   "folder": "_folder",
@@ -126,7 +129,9 @@
     "rbxm": "_model",
     "rbxmx": "_model",
     "rbxl": "_workspace",
-    "rbxlx": "_workspace"
+    "rbxlx": "_workspace",
+    "mp4": "_video",
+    "mov": "_video"
   },
   "fileNames": {
     "README": "_readme",
