@@ -80,6 +80,9 @@
     },
     "_sound": {
       "iconPath": "./icons/sound.png"
+    },
+    "_mesh": {
+      "iconPath": "./icons/meshpart.png"
     }
   },
   "folder": "_folder",
@@ -110,7 +113,12 @@
     "mp3": "_sound",
     "wav": "_sound",
     "ogg": "_sound",
-    "flac": "_sound"
+    "flac": "_sound",
+    "fbx": "_mesh",
+    "obj": "_mesh",
+    "gltf": "_mesh",
+    "glb": "_mesh",
+    "mesh": "_mesh"
   },
   "fileNames": {
     "README": "_readme"
