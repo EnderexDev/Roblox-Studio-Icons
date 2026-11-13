@@ -103,6 +103,7 @@
     "toml": "_settings",
     "lua.disabled": "_disabled_script",
     "luau.disabled": "_disabled_script",
+    "project.json": "_rojo",
     "git": "_git",
     "gitignore": "_git",
     "gitattributes": "_git",
@@ -128,7 +129,8 @@
     "rbxlx": "_workspace"
   },
   "fileNames": {
-    "README": "_readme"
+    "README": "_readme",
+    "azul.package.json": "_azul"
   },
   "folderNames": {
     "sync": "_azul",
